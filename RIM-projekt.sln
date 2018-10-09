@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RIM-projekt", "RIM-projekt\RIM-projekt.vcxproj", "{55C152CB-97EB-4191-BC93-7D1D5AF927A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C152CB-97EB-4191-BC93-7D1D5AF927A1}.Debug|x64.ActiveCfg = Debug|x64
+		{55C152CB-97EB-4191-BC93-7D1D5AF927A1}.Debug|x64.Build.0 = Debug|x64
+		{55C152CB-97EB-4191-BC93-7D1D5AF927A1}.Release|x64.ActiveCfg = Release|x64
+		{55C152CB-97EB-4191-BC93-7D1D5AF927A1}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DFAD223-CEBA-400C-902C-107A9021E791}
+	EndGlobalSection
+EndGlobal
